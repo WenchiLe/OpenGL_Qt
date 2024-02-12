@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file>shaders/shapes.frag</file>
+        <file>shaders/shapes.vert</file>
+        <file>shaders/skybox.frag</file>
+        <file>shaders/skybox.vert</file>
+        <file>shaders/reflection.frag</file>
+        <file>shaders/reflection.vert</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>images/container2.png</file>
+        <file>images/container2_specular.png</file>
+        <file>images/lighting_maps_specular_color.png</file>
+        <file>images/matrix.jpg</file>
+        <file>images/wall.jpg</file>
+        <file>images/skybox/back.jpg</file>
+        <file>images/skybox/bottom.jpg</file>
+        <file>images/skybox/front.jpg</file>
+        <file>images/skybox/left.jpg</file>
+        <file>images/skybox/right.jpg</file>
+        <file>images/skybox/top.jpg</file>
+    </qresource>
+</RCC>

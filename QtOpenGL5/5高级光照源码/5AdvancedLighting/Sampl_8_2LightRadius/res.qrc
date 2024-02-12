@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file>shaders/g_buffer.frag</file>
+        <file>shaders/g_buffer.vert</file>
+        <file>shaders/deferred_shading.frag</file>
+        <file>shaders/deferred_shading.vert</file>
+        <file>shaders/deferred_light_box.frag</file>
+        <file>shaders/deferred_light_box.vert</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>images/container2.png</file>
+        <file>images/container2_specular.png</file>
+        <file>images/lighting_maps_specular_color.png</file>
+        <file>images/matrix.jpg</file>
+        <file>images/wall.jpg</file>
+    </qresource>
+</RCC>

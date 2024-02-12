@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file>shaders/shapes.frag</file>
+        <file>shaders/shapes.vert</file>
+        <file>shaders/quad.frag</file>
+        <file>shaders/quad.vert</file>
+        <file>shaders/depthMap.frag</file>
+        <file>shaders/depthMap.vert</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>images/container2.png</file>
+        <file>images/container2_specular.png</file>
+        <file>images/lighting_maps_specular_color.png</file>
+        <file>images/matrix.jpg</file>
+        <file>images/wall.jpg</file>
+    </qresource>
+</RCC>

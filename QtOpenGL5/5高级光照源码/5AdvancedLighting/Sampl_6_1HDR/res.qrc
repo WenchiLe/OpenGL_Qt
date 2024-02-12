@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file>shaders/shapes.frag</file>
+        <file>shaders/shapes.vert</file>
+        <file>shaders/lighting.frag</file>
+        <file>shaders/lighting.vert</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>images/matrix.jpg</file>
+        <file>images/wall.jpg</file>
+        <file>images/wood.png</file>
+    </qresource>
+</RCC>
